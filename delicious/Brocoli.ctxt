@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=angle\ xPos\ yPos
+comment0.target=Brocoli(double,\ int,\ int)
+comment0.text=\r\n\ constructor\ de\ variables\ de\ la\ clase\ Brocoli\r\n\ parametros\ un\ angulo,\ posision\ en\ x\ y\ posision\ en\ y.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ metodo\ que\ mueve\ al\ brocoli\ en\ forma\ de\ circulo\ \r\n\ \r\n
+comment3.params=xPos\ yPos
+comment3.target=void\ cambiaCenter(int,\ int)
+comment3.text=\r\niguala\ la\ posision\ inicial\ con\ la\ posision\ actual\ en\ x\ e\ y\r\n
+numComments=4

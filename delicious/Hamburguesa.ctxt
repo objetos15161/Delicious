@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hamburguesa()
+comment0.text=\r\n\ constructor\ de\ variables\ de\ la\ clase\ Hamburguesa\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemy3\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=dir
+comment2.target=void\ setDir(int)
+comment3.params=
+comment3.target=void\ cambiaDir()
+comment3.text=\r\n\ metodo\ que\ checa\ la\ direccion\ en\ que\ debe\ de\ ir\ la\ hamburguesa,\ al\ llegar\ a\ un\ extremo\ en\ el\ eje\ de\ las\ x\ \r\n\ cambia\ su\ posision\ a\ la\ contraria\r\n
+comment4.params=
+comment4.target=void\ mover()
+comment4.text=\r\n\ mueve\ la\ hamburguesa\ en\ el\ eje\ de\ las\ X\ dependiendo\ su\ direccion\r\n
+numComments=5

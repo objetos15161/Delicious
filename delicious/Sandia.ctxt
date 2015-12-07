@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sandia()
+comment0.text=\r\n\ constructor\ de\ variables\ de\ la\ clase\ Sandia\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemy3\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ cambiarDir()
+comment2.text=\r\n\ metodo\ que\ checa\ la\ direccion\ en\ que\ debe\ de\ ir\ la\ Sandia,\ al\ llegar\ a\ un\ extremo\ en\ el\ eje\ de\ las\ x\ \r\n\ cambia\ su\ posision\ a\ la\ contraria\r\n
+comment3.params=
+comment3.target=void\ mover()
+comment3.text=\r\n\ mueve\ la\ sandia\ en\ el\ eje\ de\ las\ X\ dependiendo\ su\ direccion\r\n
+numComments=4

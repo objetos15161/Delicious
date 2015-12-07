@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Juego()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Juego.\ Se\ inicializan\ las\ variables\ ,\ carga\ las\ imagenes\ del\ esenario,\ el\ ni\u00F1o\ lo\ agrega\ al\ esenario\ \r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ en\ el\ que\ llama\ a\ las\ acciones\ que\ ara\ el\ ni\u00F1o\ ,\ controla\ la\ velocidad\ en\ la\ qeu\ aparecen\ los\ objetos\ en\ el\ esenario,\r\n\ llama\ a\ los\ letreros\ perdiste\ y\ ganaste,\ cambia\ los\ esenarios\ de\ los\ niveles\ y\ controla\ las\ vidas,\ puntos\ y\ direccion.\ \r\n
+comment2.params=objeto\ x\ y
+comment2.target=void\ agregaObjeto(int,\ int,\ int)
+comment2.text=\r\n\ Metodo\ que\ va\ agregando\ la\ comida\ sana\ y\ chatarra\ aleatoriamente\ mediante\ un\ switch\ se\ pasa\ como\ parametro\ el\ numero\ de\ objeto,\ una\ coordenada\ en\ x\ y\ otra\ en\ y\ \r\n
+numComments=3

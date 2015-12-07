@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Credito\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ En\ este\ metodo\ se\ crea\ la\ funcion\ para\ que\ al\ presionar\ el\ boton\ de\ credits\ \r\n\ con\ el\ mouse\ se\ active\ y\ llama\ al\ metodo\ de\ creaCreditos\r\n
+comment1.params=
+comment1.target=void\ click()
+numComments=2
